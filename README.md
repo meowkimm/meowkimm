@@ -1,4 +1,4 @@
-<h1><align = "center"> Hello 👋 My Name is Muhammad Rizky Adianto 
+<h1 align="center"> Hello 👋 My Name is Muhammad Rizky Adianto 
 </h1>
 <p>🌐 Software engineer
 
