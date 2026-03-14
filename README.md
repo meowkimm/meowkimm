@@ -1,5 +1,6 @@
-# Hello 👋 My Name is Muhammad Rizky Adianto 
-
+<h1><align = "center"> Hello 👋 My Name is Muhammad Rizky Adianto 
+</h1>
+<p>🌐 Software engineer
 
 🔭 I’m currently working on web projects using PHP and Laravel<br>🌱 I’m currently learning Python for scripting and backend development<br>👯 I’m looking to collaborate on small web apps or open-source projects<br>🤔 I’m looking for help with best practices in Laravel and Python frameworks<br>🎯 My goal is to become a Software Engineer and grow into a Full-Stack Developer<br>💻 I enjoy building small web applications and experimenting with new coding ideas<br>🧠 Interested in backend development, web systems, and full-stack technologies<br>📚 Currently improving my skills in problem solving, clean code, and software development<br>
 
