@@ -1,7 +1,7 @@
 <h1 align="center"> Hello Friends 👋 I'm Muhammad Rizky Adianto 
 </h1>
 <p align="center">Aspiring Software Engineer | Future Full-Stack Developer</p>
-🔭 I'm currently working on personal projects while improving my software development skills<br>👯 I’m looking to collaborate on small web apps or open-source projects<br>🤔 I’m looking for help with best practices in Laravel and Python frameworks<br>🎯 My goal is to become a Software Engineer and grow into a Full-Stack Developer<br>💻 I enjoy building small web applications and experimenting with new coding ideas<br>🧠 Interested in backend development, web systems, and full-stack technologies<br>📚 Currently improving my skills in problem solving, clean code, and software development<br>
+🔭 I'm currently working on personal projects while improving my software development skills<br>👯 I’m looking to collaborate on small web apps or open-source projects<br>🎯 My goal is to become a Software Engineer and grow into a Full-Stack Developer<br>💻 I enjoy building small web applications and experimenting with new coding ideas<br>🧠 Interested in backend development, web systems, and full-stack technologies<br>📚 Currently improving my skills in problem solving, clean code, and software development<br>
 
 
 ## 🌐 Socials:
